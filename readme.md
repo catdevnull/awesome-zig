@@ -96,6 +96,7 @@
 - [TM35-Metronome/tm35-nds](https://github.com/TM35-Metronome/tm35-nds) - A library for working with Nintendo DS roms
 - [user00e00/sudokuinzig](https://github.com/user00e00/sudokuinzig) -
 - [wendigojaeger/ZigGBA](https://github.com/wendigojaeger/ZigGBA) - Work in progress SDK for creating Game Boy Advance games using Zig programming language.
+- [prime31/zig-upaya](https://github.com/prime31/zig-upaya) - Zig-based framework for creating game tools and helper apps 
 
 
 ## Games
@@ -108,6 +109,7 @@
 - [thejoshwolfe/legend-of-swarkland](https://github.com/thejoshwolfe/legend-of-swarkland) - Hack-n-slash roguelike inspired by NetHack
 - [tiehuis/zstack](https://github.com/tiehuis/zstack) - Line-race tetris mode in Zig
 - [kooparse/zalgebra](https://github.com/kooparse/zalgebra) - Linear algebra library for games and real-time computer graphics.
+- [floooh/pacman.zig](https://github.com/floooh/pacman.zig) - Simple Pacman clone written in Zig. 
 
 
 ## GUI
