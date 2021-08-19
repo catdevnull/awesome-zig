@@ -86,6 +86,7 @@
 - [sourgrasses/ichigo](https://github.com/sourgrasses/ichigo) - [WIP] 🍓 Virtual Boy emulator
 - [Srekel/zag](https://github.com/Srekel/zag) - Game dev project written in Zig and C
 - [tiehuis/zig-gameboy](https://github.com/tiehuis/zig-gameboy) - A gameboy emulator in zig
+- [floooh/kc85.zig](https://github.com/floooh/kc85.zig) - A KC85 emulator written in Zig 
 
 
 ## Game tools and libraries
@@ -208,6 +209,8 @@
 - [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) - Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
 - [demizer/markzig](https://github.com/demizer/markzig) - Pure Zig Markdown Parser
 - [gernest/base32](https://github.com/gernest/base32) - base32 encoding/decoding for ziglang
+- [MasterQ32/zig-args](https://github.com/MasterQ32/zig-args) - Simple-to-use argument parser with struct-based config 
+- [gruebite/zzz](https://github.com/gruebite/zzz) - Simple and boring human readable data format for Zig.
 
 
 ## Learning resources
