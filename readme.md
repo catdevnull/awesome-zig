@@ -152,6 +152,7 @@
 
 
 ### HTTP
+- [Luukdegram/apple_pie](https://github.com/Luukdegram/apple_pie) - HTTP 1.0/1.1 Server implementation
 - [ducdetronquito/h11](https://github.com/ducdetronquito/h11) - I/O-free HTTP/1.1 implementation inspired by hyper/h11
 - [lun-4/ziget](https://github.com/lun-4/ziget) - simple wget in zig without libc
 - [Vexu/routez](https://github.com/Vexu/routez) - Http server for Zig
