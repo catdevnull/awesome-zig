@@ -32,6 +32,7 @@
 - [AndreaOrru/zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig
 - [andrewrk/clashos](https://github.com/andrewrk/clashos) - multiplayer arcade game for bare metal Raspberry Pi 3 B+
 - [andrewrk/HellOS](https://github.com/andrewrk/HellOS) - "hello world" x86 kernel example
+- [chivay/vmt](https://github.com/chivay/vmt) - Toy OS written in Zig (Requires Zig>=0.9.0)
 - [DorianXGH/Lukarnel](https://github.com/DorianXGH/Lukarnel) - A microkernel in zig with rust microservices
 - [iguessthislldo/georgios](https://github.com/iguessthislldo/georgios) - Hobby Operating System
 - [jzck/kernel-zig](https://github.com/jzck/kernel-zig) - 💾 hobby x86 kernel zig
