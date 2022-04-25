@@ -234,4 +234,4 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR](https://github.com/tldr-pages/tldr) client.
 * [kubkon/zig-ios-example](https://github.com/kubkon/zig-ios-example) - Minimal `build.zig` for targeting iOS.
 * [ynuwenhof/zigbraten](https://github.com/ynuwenhof/zigbraten) - Proof of concept internal cheat for Cube 2: Sauerbraten.
-
+* [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) An implementation of Protocol Buffers v3 leveraging zig's comptime.
