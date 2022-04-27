@@ -218,7 +218,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [winksaville/zig-parse-number](https://github.com/winksaville/zig-parse-number) - Implement ParseNumber which can parse any TypeId.Int or TypeId.Float.
 * [gernest/base32](https://github.com/gernest/base32) - Base32 encoding/decoding.
 * [caolan/zig-netstring](https://git.sr.ht/~caolan/zig-netstring) - Netstring parser.
-
+* [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
 
 ## Learning resources
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
@@ -234,4 +234,4 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR](https://github.com/tldr-pages/tldr) client.
 * [kubkon/zig-ios-example](https://github.com/kubkon/zig-ios-example) - Minimal `build.zig` for targeting iOS.
 * [ynuwenhof/zigbraten](https://github.com/ynuwenhof/zigbraten) - Proof of concept internal cheat for Cube 2: Sauerbraten.
-* [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) An implementation of Protocol Buffers v3 leveraging zig's comptime.
+
