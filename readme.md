@@ -154,7 +154,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [kprotty/zap](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
 * [mlarouche/zigimg](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
 * [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
-
+* [SasLuca/zig-nanoid](https://github.com/SasLuca/zig-nanoid) - A battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 
 ## Network
 * [euantorano/ip.zig](https://github.com/euantorano/ip.zig) - Library for working with IP Addresses.
