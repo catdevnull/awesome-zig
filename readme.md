@@ -221,6 +221,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [gernest/base32](https://github.com/gernest/base32) - Base32 encoding/decoding.
 * [caolan/zig-netstring](https://git.sr.ht/~caolan/zig-netstring) - Netstring parser.
 * [Arwalk/zig-protobuf](https://github.com/Arwalk/zig-protobuf) - Implementation of Protocol Buffers v3 leveraging Zig's comptime.
+* [iddev5/inon](https://github.com/iddev5/inon) - Data configuration file format in Zig.
 
 ## Learning resources
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
