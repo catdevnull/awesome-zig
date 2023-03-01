@@ -68,7 +68,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [MasterQ32/RetrOS](https://github.com/MasterQ32/RetrOS) - A retro-style gaming console running on bare x86 metal.
 * [nrdmn/uefi-examples](https://github.com/nrdmn/uefi-examples) - UEFI examples.
 * [nrdmn/uefi-paint](https://github.com/nrdmn/uefi-paint) - UEFI-bootable touch paint app.
-* [rafaelbreno/zig-os](https://github.com/rafaelbreno/zig-os) - A simple OS written in Zig following Philipp Oppermann's posts "Writing an OS in Rust"
+* [rafaelbreno/zig-os](https://github.com/rafaelbreno/zig-os) - A simple OS following Philipp Oppermann's posts "Writing an OS in Rust".
 * [SamTebbs33/pluto](https://github.com/SamTebbs33/pluto) - An x86 kernel.
 * [sjdh02/trOS](https://github.com/sjdh02/trOS) - Tiny aarch64 baremetal OS thingy.
 * [tralamazza/embedded_zig](https://github.com/tralamazza/embedded_zig) - Minimal embedded ARM example (STM32F103 blue pill).
