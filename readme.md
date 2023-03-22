@@ -171,6 +171,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 * [SasLuca/zig-nanoid](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 * [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
+* [karlseguin/log.zig](https://github.com/karlseguin/log.zig) - Structured logging library
 
 ## Network
 * [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
@@ -190,6 +191,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * ~~[Vexu/routez](https://github.com/Vexu/routez) - HTTP server.~~
 * [frmdstryr/zhp](https://github.com/frmdstryr/zhp) - Featureful HTTP server.
 * [axgdev/telegram_echobot_zig](https://github.com/axgdev/telegram_echobot_zig) - Telegram echo bot.
+* [karlseguin/http.zig](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
 
 
 ## Web
