@@ -53,6 +53,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [Hejsil/zig-midi](https://github.com/Hejsil/zig-midi)
 * [hazeycode/zig-alsa](https://github.com/hazeycode/zig-alsa) - Bindings for ALSA (libasound).
 * [dantecatalfamo/sndio-zig](https://github.com/dantecatalfamo/sndio-zig) - Bindings for [sndio](https://sndio.org).
+* [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
 
 
 ## Bootables
