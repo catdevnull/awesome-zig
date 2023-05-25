@@ -255,6 +255,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 ## Learning resources
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
 * [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) - Zig learning resources.
+* [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
 
 
 ## Other
