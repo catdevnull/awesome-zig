@@ -26,7 +26,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
   * [Package managers](#package-managers)
 * [Parser](#parser)
 * [Learning resources](#learning-resources)
-* [C/C++ libraries packaged for Zig](#TODO)
+* [C/C++ libraries packaged for Zig](#cc-libraries-packaged-for-zig)
 * [Other](#other)
 
 
