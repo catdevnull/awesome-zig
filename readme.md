@@ -26,6 +26,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
   * [Package managers](#package-managers)
 * [Parser](#parser)
 * [Learning resources](#learning-resources)
+* [C/C++ libraries packaged for Zig](#TODO)
 * [Other](#other)
 
 
@@ -256,6 +257,33 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
 * [Sobeston/ziglearn](https://github.com/Sobeston/ziglearn) - Zig learning resources.
 * [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn Zig by fixing tiny example programs.
+
+
+## C/C++ libraries packaged for Zig
+
+These C/C++ libraries were packaged to be used with the Zig build and packaging system (build.zig.)
+
+### C
+
+* [andrewrk/SDL](https://github.com/andrewrk/SDL)
+* [andrewrk/ffmpeg](https://github.com/andrewrk/ffmpeg)
+* [andrewrk/libgroove](https://github.com/andrewrk/libgroove)
+* [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio/tree/zig-pkg)
+* [kassane/openssl](https://github.com/kassane/openssl)
+* [kassane/libbpf](https://github.com/kassane/libbpf)
+* [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild)
+
+### C++
+
+* [andrewrk/libchromaprint](https://github.com/andrewrk/libchromaprint)
+* [kassane/asio](https://github.com/kassane/asio)
+* [kassane/fmt](https://github.com/kassane/fmt)
+* [kassane/hana](https://github.com/kassane/hana)
+* [kassane/catch2](https://github.com/kassane/catch2)
+* [kassane/outcome](https://github.com/kassane/outcome)
+* [kassane/json](https://github.com/kassane/json) - jsoncpp ported to Zig packaging.
+* [kassane/range](https://github.com/kassane/range-v3)
+* [kassane/libzmq](https://github.com/kassane/libzmq)
 
 
 ## Other
