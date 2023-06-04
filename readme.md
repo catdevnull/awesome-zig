@@ -269,18 +269,20 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 
 * [andrewrk/SDL](https://github.com/andrewrk/SDL) - Simple Directmedia Layer.
 * [andrewrk/ffmpeg](https://github.com/andrewrk/ffmpeg) - library only.
-* [andrewrk/libgroove](https://github.com/andrewrk/libgroove)
-* [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio/tree/zig-pkg)
+* [andrewrk/libgroove](https://github.com/andrewrk/libgroove) - streaming audio processing library.
+* [andrewrk/libsoundio](https://github.com/andrewrk/libsoundio/tree/zig-pkg) - library for real-time audio input and output.
 * [kassane/openssl](https://github.com/kassane/openssl) - crypto, providers & ssl libraries only.
+* [kassane/wolfssl](https://github.com/kassane/wolfssl) - wolfssl library.
 * [kassane/libbpf](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
 * [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - MinGW pthread library.
 
 ### C++
 
-* [andrewrk/libchromaprint](https://github.com/andrewrk/libchromaprint)
+* [andrewrk/libchromaprint](https://github.com/andrewrk/libchromaprint) - library for generating audio fingerprints used by AcoustID.
 * [kassane/asio](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
-* [kassane/fmt](https://github.com/kassane/fmt)
-* [kassane/hana](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).>
+* [kassane/fmt](https://github.com/kassane/fmt) - Modern formatting library.
+* [kassane/hana](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).
+* [kassane/intrusive](https://github.com/kassane/intrusive) - (boost-intrusive) intrusive containers (header-only, C++03/11/14).
 * [kassane/catch2](https://github.com/kassane/catch2) - Unit testing library (C++14/17/20).
 * [kassane/outcome](https://github.com/kassane/outcome) - (non-boost) Error handler (C++14/17/20).
 * [kassane/json](https://github.com/kassane/json) - jsoncpp ported to Zig packaging.
