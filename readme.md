@@ -274,7 +274,7 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 * [kassane/openssl](https://github.com/kassane/openssl) - crypto, providers & ssl libraries only.
 * [kassane/wolfssl](https://github.com/kassane/wolfssl) - wolfssl library.
 * [kassane/libbpf](https://github.com/kassane/libbpf) - BPF CO-RE (Compile Once – Run Everywhere).
-* [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - MinGW pthread library.
+* [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
 
 ### C++
 
@@ -286,7 +286,7 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 * [kassane/catch2](https://github.com/kassane/catch2) - Unit testing library (C++14/17/20).
 * [kassane/outcome](https://github.com/kassane/outcome) - (non-boost) Error handler (C++14/17/20).
 * [kassane/json](https://github.com/kassane/json) - jsoncpp ported to Zig packaging.
-* [kassane/range](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
+* [kassane/range-v3](https://github.com/kassane/range-v3) - modern range library (C++14/17/20).
 * [kassane/libzmq](https://github.com/kassane/libzmq) - ZeroMQ core engine in C++ library.
 
 
