@@ -41,6 +41,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [Srekel/zig-sparse-set](https://github.com/Srekel/zig-sparse-set) - Sparse sets, supporting both SOA and AOS style.
 * [hexops/xorfilter](https://github.com/hexops/xorfilter) - Xor Filters for checking if a key is part of a set.
 * [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) - UTF-8 string data structure.
+* [karlseguin/cache.zig](https://github.com/karlseguin/cache.zig) - Thread-safe, expiration-aware, LRU cache.
 
 
 ## Allocators and memory
@@ -97,6 +98,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [leroycep/sqlite-zig](https://github.com/leroycep/sqlite-zig) - SQLite bindings.
 * [vrischmann/zig-cassandra](https://github.com/vrischmann/zig-cassandra) - Client for Cassandra 2.1+.
 * [vrischmann/zig-sqlite](https://github.com/vrischmann/zig-sqlite) - SQLite wrapper.
+* [karlseguin/zuckdb.zig](https://github.com/karlseguin/zuckdb.zig) - DuckDB wrapper.
 
 
 ## Editor plugins
@@ -175,6 +177,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Zig bindings for libVLC media framework.
 * [karlseguin/log.zig](https://github.com/karlseguin/log.zig) - Structured logging library.
 * [dantecatalfamo/9p-zig](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
+* [karlseguin/singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
 
 ## Network
 * [MasterQ32/zig-network](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
