@@ -283,6 +283,8 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 
 * [andrewrk/libchromaprint](https://github.com/andrewrk/libchromaprint) - library for generating audio fingerprints used by AcoustID.
 * [kassane/asio](https://github.com/kassane/asio) - (non-boost) Networking I/O library (w/ event-loop, C++14/17/20).
+* [kassane/unordered](https://github.com/kassane/unordered) (boost-unordered) associative containers.
+* [kassane/fiber](https://github.com/kassane/fiber) (boost-fiber) micro-/userland-threads (fibers) scheduled cooperatively.
 * [kassane/fmt](https://github.com/kassane/fmt) - Modern formatting library.
 * [kassane/context](https://github.com/kassane/context) - (boost-context) fiber library (C++14/17/20).
 * [kassane/hana](https://github.com/kassane/hana) - (boost-hana) Meta-programming library (header-only, C++14/17/20).
