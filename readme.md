@@ -272,7 +272,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [iddev5/inon](https://github.com/iddev5/inon) - Data configuration file format.
 * [naneros/ztoml](https://codeberg.org/naneros/ztoml.git) - TOMLv1.0.0 parser and convert TOML to JSON.
 * [InKryption/comath](https://github.com/InKryption/comath) - Calculate math expressions in comptime.
-* [weskoerber/kewpie](https://github.com/weskoerber/kewpie) - A simple query string parser for zig.
+* [weskoerber/kewpie](https://github.com/weskoerber/kewpie) - A simple query string parser.
 
 ## Learning resources
 * [belse-de/zig-tut](https://github.com/belse-de/zig-tut) - A collection of small projects and tutorials to learn Zig.
