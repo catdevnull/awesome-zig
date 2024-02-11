@@ -236,7 +236,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 ## Zig development tools
 * [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 * [korandoru/setup-zig](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
-* [weskoerber/zvm](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active zig versions.
+* [weskoerber/zvm](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
 
 
 ### Package managers
