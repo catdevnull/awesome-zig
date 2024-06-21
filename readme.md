@@ -306,6 +306,7 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 * [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
 * [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 * [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) - Creating Excel XLSX files.
+* [alexrp/libffi](https://github.com/alexrp/libffi) - libffi with a Zig build script.
 
 ### C++
 
