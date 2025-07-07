@@ -18,6 +18,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [Game tools and libraries](#game-tools-and-libraries)
 * [Games](#games)
 * [GUI](#gui)
+* [Linters](#linters)
 * [Misc libraries](#misc-libraries)
 * [Network](#network)
   * [HTTP](#http)
@@ -179,6 +180,12 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) - Fediverse GTK Desktop Reader.
 * [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) - A simple paint application. Used to create an OpenGL loader/wrapper and a minimal UI system.
 * [olexij-christian/zgtk3](https://github.com/olexij-christian/zgtk3) - GTK3 bindings.
+
+## Linters
+
+* [KurtWagner/zlinter](https://github.com/KurtWagner/zlinter) - Linter that integrates from source into your `build.zig`
+* [DonIsaac/zlint](https://github.com/DonIsaac/zlint) - Linter
+* [nektro/ziglint](https://github.com/nektro/ziglint) - Linting suite
 
 ## Misc libraries
 * [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
