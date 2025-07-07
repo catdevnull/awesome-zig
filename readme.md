@@ -183,9 +183,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 ## Linters
 
-* [KurtWagner/zlinter](https://github.com/KurtWagner/zlinter) - Zig linter that is integrated from source into your `build.zig`
-* [DonIsaac/zlint](https://github.com/DonIsaac/zlint) - A linter for the Zig programming language
-* [nektro/ziglint](https://github.com/nektro/ziglint) - A linting suite for Zig
+* [KurtWagner/zlinter](https://github.com/KurtWagner/zlinter) - Linter that integrates from source into your `build.zig`
+* [DonIsaac/zlint](https://github.com/DonIsaac/zlint) - Linter
+* [nektro/ziglint](https://github.com/nektro/ziglint) - Linting suite
 
 ## Misc libraries
 * [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.
